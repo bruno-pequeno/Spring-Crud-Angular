@@ -12,7 +12,7 @@ import java.util.List;
 
 @AllArgsConstructor
 @RestController
-@RequestMapping("/api/cursos")
+@RequestMapping("/api/courses")
 public class CourseController {
 
     @Autowired
